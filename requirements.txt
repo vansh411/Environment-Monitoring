@@ -4,4 +4,4 @@ tensorflow-hub
 streamlit
 pillow
 numpy
-
+setuptools==80.9.0
