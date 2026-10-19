@@ -1,7 +1,9 @@
 
-tensorflow
-tensorflow-hub
+tensorflow==2.20.0
+tensorflow-hub==0.16.1
+tf-keras==2.20.1
+keras==3.10.0
 streamlit
 pillow
 numpy
-setuptools==80.9.0
+setuptools
